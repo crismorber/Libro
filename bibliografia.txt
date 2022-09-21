@@ -1,0 +1,3 @@
+- Chaco, S. and Straub, B. Pro Git. Apress.
+- Loeliger, J. and McCullough, W. Version control con Git. O'Reilly.
+- Hodson, R. Ry's Git Tutorial. Smashwords (2014)
